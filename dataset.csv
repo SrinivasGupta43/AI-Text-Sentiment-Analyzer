@@ -1,0 +1,16 @@
+text,sentiment
+I love this product,Positive
+This is amazing,Positive
+I am very happy,Positive
+Excellent service,Positive
+Wonderful experience,Positive
+I hate this product,Negative
+Very bad experience,Negative
+Worst service ever,Negative
+I am disappointed,Negative
+This is terrible,Negative
+It is okay,Neutral
+Nothing special,Neutral
+Average experience,Neutral
+It is neither good nor bad,Neutral
+The product is normal,Neutral
